@@ -1,0 +1,8 @@
+# requirements.txt
+pandas
+matplotlib
+scipy
+numpy
+requests
+Pillow
+h5py
